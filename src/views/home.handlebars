@@ -1,0 +1,30 @@
+<main>
+    <h1>
+        Panes deliciosos
+    </h1>
+    <hr>
+    <section class="cardContainer">
+            {{#each products}}
+                <div class="card">
+                    <h2>{{title}}</h2>
+                    <hr>
+                    <div class="cardDescription">
+                        <p>{{description}}</p>
+                        <p>Precio: ${{price}}</p>
+                    </div>
+                    <hr>
+                    <div class="cardItems">
+                        <p>
+                            {{stock}}
+                        </p>
+                        <p>
+                            {{code}}
+                        </p>
+                        <p>
+                            {{category}}
+                        </p>
+                    </div>
+                </div>
+            {{/each}}
+    </section>
+</main>

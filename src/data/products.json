@@ -1,0 +1,112 @@
+[
+	{
+		"id": 1,
+		"title": "Baguette",
+		"description": "Pan francés crujiente, de miga esponjosa y corteza dorada.",
+		"code": "PAN001",
+		"price": 1.5,
+		"status": true,
+		"stock": 50,
+		"category": "Pan Francés"
+	},
+	{
+		"id": 2,
+		"title": "Ciabatta",
+		"description": "Pan italiano de miga alveolada y corteza crujiente.",
+		"code": "PAN002",
+		"price": 2,
+		"status": true,
+		"stock": 30,
+		"category": "Pan Italiano"
+	},
+	{
+		"id": 3,
+		"title": "Pan de Centeno",
+		"description": "Pan oscuro y denso con un sabor profundo de centeno.",
+		"code": "PAN003",
+		"price": 3,
+		"status": true,
+		"stock": 20,
+		"category": "Pan Integral"
+	},
+	{
+		"id": 4,
+		"title": "Brioche Clásico",
+		"description": "Pan francés de textura suave y esponjosa, ligeramente dulce, perfecto para acompañar con mermelada.",
+		"code": "PAN004",
+		"price": 2.75,
+		"status": true,
+		"stock": 50,
+		"category": "Pan Dulce"
+	},
+	{
+		"id": 5,
+		"title": "Pan de Patata",
+		"description": "Pan suave y esponjoso, hecho con patata para una textura única.",
+		"code": "PAN019",
+		"price": 2.4,
+		"status": true,
+		"stock": 40,
+		"category": "Pan Artesanal"
+	},
+	{
+		"id": 6,
+		"title": "Pan de Molde",
+		"description": "Pan suave y esponjoso, ideal para sándwiches y tostadas.",
+		"code": "PAN006",
+		"price": 1.8,
+		"status": true,
+		"stock": 60,
+		"category": "Pan de Sándwich"
+	},
+	{
+		"id": 7,
+		"title": "Pan de Avena",
+		"description": "Pan integral enriquecido con avena, ideal para una dieta saludable.",
+		"code": "PAN007",
+		"price": 2.2,
+		"status": true,
+		"stock": 35,
+		"category": "Pan Integral"
+	},
+	{
+		"id": 8,
+		"title": "Pan de Aceitunas",
+		"description": "Pan mediterráneo con trozos de aceitunas verdes y negras.",
+		"code": "PAN010",
+		"price": 2.9,
+		"status": true,
+		"stock": 25,
+		"category": "Pan Gourmet"
+	},
+	{
+		"id": 9,
+		"title": "Pan de Leche",
+		"description": "Pan suave y ligeramente dulce, perfecto para acompañar desayunos.",
+		"code": "PAN012",
+		"price": 1.7,
+		"status": true,
+		"stock": 50,
+		"category": "Pan Dulce"
+	},
+	{
+		"id": 10,
+		"title": "Pan de Ajo",
+		"description": "Pan sabroso con un intenso sabor a ajo, ideal para acompañar sopas o ensaladas.",
+		"code": "PAN018",
+		"price": 2.6,
+		"status": true,
+		"stock": 35,
+		"category": "Pan Sabroso"
+	},
+	{
+		"id": 11,
+		"title": "Focaccia Genovese",
+		"description": "Pan plano típico de Génova, con un toque de aceite de oliva y sal marina.",
+		"code": "PAN025",
+		"price": 3,
+		"status": true,
+		"stock": 35,
+		"category": "Pan Italiano"
+	}
+]
