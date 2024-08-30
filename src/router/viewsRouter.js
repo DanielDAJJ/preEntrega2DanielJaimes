@@ -10,8 +10,11 @@ router.get('/', async (req, res) => {
     })
 });
 router.get('/realtimeproducts', async (req, res) => {
+    let products = await productsManager.getProducts();
+    
+    req.serverSocket.on
     res.setHeader('Content-Type', 'text/html');
     res.status(200).render('realTimeProducts', {
-        
+        products
     })
 })
